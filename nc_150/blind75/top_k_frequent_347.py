@@ -20,7 +20,7 @@ class Solution:
                 result.append(j)
                 if(len(result) == k):
                     return result
-        return False
+        return False 
 
     #The time complexity of this solution is O(n)
     #The space complexity of this solution is O(n)
